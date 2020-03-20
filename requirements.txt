@@ -4,3 +4,4 @@ matplotlib
 numpy
 imageio
 configargparse
+jupyterlab
